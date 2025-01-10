@@ -11,6 +11,7 @@ RUN apk update && apk add -y \
 	cups-pdf \
   	cups-bsd \
   	cups-filters \
+	epson-inkjet-printer-escpr \
 	hplip \
 	inotify-tools \
 	foomatic-db-compressed-ppds \
